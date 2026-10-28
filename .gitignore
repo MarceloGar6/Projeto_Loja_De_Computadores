@@ -1,0 +1,14 @@
+   # IntelliJ IDEA
+   .idea/
+   *.iml
+   out/
+
+   # Maven (gerado na compilação)
+   target/
+
+   # Configuração local do banco (contém a SUA senha)
+   src/main/resources/db.properties
+
+   # Sistema operacional
+   .DS_Store
+   Thumbs.db
