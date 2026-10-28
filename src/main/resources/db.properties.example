@@ -1,0 +1,5 @@
+# MODELO de configuração do banco. Copie este arquivo para "db.properties" (mesma pasta)
+# e coloque o seu usuário e a sua senha do MySQL. O db.properties NÃO vai para o GitHub.
+db.url=jdbc:mysql://localhost:3306/loja_informatica?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Sao_Paulo&characterEncoding=UTF-8
+db.user=root
+db.password=SUA_SENHA_AQUI
